@@ -1,1 +1,1 @@
-changes directory to the previous one
+use of ls
