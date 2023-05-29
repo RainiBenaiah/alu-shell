@@ -1,1 +1,1 @@
-changes to home directory
+lists files and directories in long format
