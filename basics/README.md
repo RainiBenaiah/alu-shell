@@ -1,1 +1,1 @@
-lists files and directories in long format
+lists files and directories in long formats
