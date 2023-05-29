@@ -1,1 +1,1 @@
-shows your path
+shows the content list in directory
