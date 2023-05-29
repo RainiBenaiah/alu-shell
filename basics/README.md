@@ -1,1 +1,1 @@
-lists hidden files beginning with .
+lists number and hidden files.
