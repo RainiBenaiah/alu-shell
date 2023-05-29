@@ -1,1 +1,1 @@
-lists files and directories in long formats
+lists hidden files beginning with .
