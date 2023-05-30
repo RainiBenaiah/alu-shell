@@ -1,1 +1,1 @@
-type
+copy
