@@ -1,2 +1,2 @@
 #!/bin/bash
-BREATH=10 LOVE=100 echo $(( LOVE**BREATH ))
+export BREATH=10 export LOVE=100 echo $(( LOVE**BREATH ))
