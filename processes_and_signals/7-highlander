@@ -1,1 +1,11 @@
-i
+#!/usr/bin/env bash
+# Bash script that displays
+remove() {
+    echo "I am invincible!!!"
+}
+trap remove SIGTERM
+while true;
+do
+    echo "To infinity and beyond"
+    sleep 2
+done
