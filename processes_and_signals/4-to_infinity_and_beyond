@@ -1,20 +1,12 @@
 #!/usr/bin/env bash
 # to infinite and beyond 
 
-while true
+while :
 
 do
 
-echo "Hit [CTRL+C] to exit from the loop..."
+echo "To infinite and beyond"
 
 sleep 2
-
-if [ condition ]
-
-then
-
-break
-
-fi
 
 done
